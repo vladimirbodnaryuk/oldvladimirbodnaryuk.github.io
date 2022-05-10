@@ -3,14 +3,14 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://vladimirbodnaryuk.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://vladimirbodnaryuk.github.io/"/>
   <updated>2022-05-07T03:53:17.611Z</updated>
-  <id>http://example.com/</id>
+  <id>https://vladimirbodnaryuk.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Vladimir Bodnaryuk</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/2022/05/10/%D0%9F%D0%B8%D1%82%D0%BE%D0%BD.%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8/"/>
-    <id>http://example.com/2022/05/10/%D0%9F%D0%B8%D1%82%D0%BE%D0%BD.%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8/</id>
+    <link href="https://vladimirbodnaryuk.github.io/2022/05/10/%D0%9F%D0%B8%D1%82%D0%BE%D0%BD.%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8/"/>
+    <id>https://vladimirbodnaryuk.github.io/2022/05/10/%D0%9F%D0%B8%D1%82%D0%BE%D0%BD.%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8/</id>
     <published>2022-05-10T12:23:35.319Z</published>
     <updated>2022-05-07T03:53:17.611Z</updated>
     
@@ -42,8 +42,8 @@
   
   <entry>
     <title>1005</title>
-    <link href="http://example.com/2022/05/10/1005/"/>
-    <id>http://example.com/2022/05/10/1005/</id>
+    <link href="https://vladimirbodnaryuk.github.io/2022/05/10/1005/"/>
+    <id>https://vladimirbodnaryuk.github.io/2022/05/10/1005/</id>
     <published>2022-05-10T12:02:41.000Z</published>
     <updated>2022-05-10T12:02:41.659Z</updated>
     
@@ -55,8 +55,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/05/10/hello-world/"/>
-    <id>http://example.com/2022/05/10/hello-world/</id>
+    <link href="https://vladimirbodnaryuk.github.io/2022/05/10/hello-world/"/>
+    <id>https://vladimirbodnaryuk.github.io/2022/05/10/hello-world/</id>
     <published>2022-05-10T11:55:00.025Z</published>
     <updated>2022-05-10T11:55:00.025Z</updated>
     
